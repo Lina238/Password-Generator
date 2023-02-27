@@ -13,5 +13,5 @@ punctuation(20%)
 
 5-create a loop to combine the password in a list of elements   
 
--join the created list to get a string and that will be the final result :)  
+6-join the created list to get a string and that will be the final result :)  
 thanks  
